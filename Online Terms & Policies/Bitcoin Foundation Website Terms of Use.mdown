@@ -1,0 +1,111 @@
+*Last revised on: September 24, 2012*
+
+Please review the terms described herein carefully. Your use of [BitcoinFoundation.org](http://www.BitcoinFoundation.org) and [BTC.org](http://www.BTC.org) and the Member Forums (individually and collectively the “Website”) is contingent on your acceptance of these terms and all the terms and policies incorporated herein. You cannot make use of the Website if you do not agree to these terms, and your use means you agree and accept these terms and conditions. These terms are void where prohibited by law, and the right to access and use the Website is revoked in any such jurisdiction.
+
+These terms of use (the “Terms”) apply solely to your access to, and use of, The Bitcoin Foundation, Inc.'s (herein "Bitcoin Foundation”) Website, content and services. You hereby represent and warrant that you are able to accept these Terms.
+
+Bitcoin Foundation reserves the right to change or modify these Terms, or any other policy or guideline, at any time and in its sole discretion. You hereby waive any right you may have to receive specific notice of changes or modifications to the Terms, or any other policy or guideline. Therefore, you should periodically review these Terms and all applicable policies and guidelines as any changes or modifications will be effective immediately once they have been posted online. Your continued use of the Website following the posting of changes or modifications will confirm your acceptance of those changes or modifications. If you do not agree to the changes or modifications, you must stop using the Website.
+
+## **USE OF THE WEBSITE**
+
+To use the Website you must comply with these Terms and you must be 18 years or older, or 13 years or older if you have parental consent to be bound by these Terms. The Website is not targeted to or intended to be used by anyone under the age of 13 or where prohibited by law.
+
+## **PRIVACY**
+
+Your privacy is important to us. Please carefully review our privacy policy. Our privacy policy details the way we collect, use and disclose information about you.
+
+## **TERMINATION**
+
+Notwithstanding any of these Terms, Bitcoin Foundation reserves the right, without notice and in its sole discretion, to terminate any license it grants to you to use the Website and to block or prevent your future access to, and use of, the Website.
+
+## **USE OF THE WEBSITE AND CONTENT**
+
+##### *Copyright and Limited License*
+
+Unless otherwise indicated, the Website is the proprietary property of Bitcoin Foundation, its sponsors, members and/or licensors, and is protected by U.S. and international copyright and/or other intellectual property laws.
+
+Subject to these Terms, Bitcoin Foundation grants you a limited, non-exclusive, non-sublicensable and fully revocable license ("License”) to access and use the Website during the time that you are in compliance with these Terms.
+
+##### *Use of the Website*
+
+You shall not:
+
+1. Use, or attempt to use, the Website to harass, abuse, or harm any other person or group, nor advocate or incite the harassment, abuse or harm of any other person or group. 
+
+2. Post any abusive, threatening, obscene, defamatory, libelous, or racially, sexually, religiously, or otherwise objectionable or offensive content or information, or any content or information that contains nudity, excessive violence, or offensive subject matter, or that contains a link to such content.
+
+3. Inappropriately solicit or attempt to solicit personal information from other users of the Website, nor shall you harvest or post anyone’s private information, including personally identifiable or financial information in or through the use of the Website. 
+
+4. Advertise, spam or distribute any malware, spyware or other malicious content in or through the Website.
+
+5. Engage in any illegal conduct. 
+
+6. Disrupt or overburden any computer or server used by or in connection with the Website, become involved in any type of attack (including, but not limited to, distribution of a virus or denial of service attacks), nor in any other way attempt to disrupt the Website, or any other user’s use or enjoyment of the Website.
+
+7. Attempt to gain unauthorized access to the Website, or to the computers, servers, or networks connected to Bitcoin Foundation, its partners, the Website, by any means other than the user interface.
+
+##### *User Content*
+
+Each user is responsible for any content or information they post or transmit in connection with the Website, and Bitcoin Foundation assumes no responsibility for the conduct of any user submitting any content, nor for the information transmitted by any user. You shall not make available in connection with the Website any material or information that infringes any copyright, trademark, patent, trade secret, right of privacy, right of publicity, or other right of any person or entity. You shall not impersonate any other person in connection with the Website.
+
+Bitcoin Foundation assumes no responsibility for monitoring the Website for inappropriate or illegal content or conduct, and has no obligation to monitor user content. Bitcoin Foundation shall have the right, in its sole discretion, to edit, refuse to post, or remove any user content.
+
+##### *User Submissions*
+
+The Website may provide you and other users the opportunity to submit questions, comments, suggestions, ideas, plans, notes, drawings, original or creative materials or other information  (the “Submissions”). Submissions, however they are transmitted, are non-confidential as between you and Bitcoin Foundation. Bitcoin Foundation shall be entitled to the unrestricted use and dissemination of these Submissions for any purpose without acknowledgment or compensation to you.
+
+##### *Third Party Content or Advertising*
+
+Bitcoin Foundation may, from time-to-time, provide third party content in the Website, and may provide, as a service, links to web pages and content of third parties (“Third Party Content”). Bitcoin Foundation does not monitor or have any control over any Third Party Content or third party websites. Unless otherwise expressly stated by Bitcoin Foundation, Bitcoin Foundation does not endorse or adopt, and is not responsible or liable for, any Third Party Content. Bitcoin Foundation does not make any representations or warranties of any kind regarding the Third Party Content, including, without limitation, any representations or warranties regarding its accuracy, completeness or noninfringement. Bitcoin Foundation undertakes no responsibility to update or review any Third Party Content and users use such Third Party Content contained therein at their own risk.
+
+## **Dispute Resolution**
+
+#####  *Choice of Law, Venue and Jurisdiction*
+
+These Terms shall be governed by and construed in accordance with the laws of the District of Columbia, without giving effect to its conflict of law provisions. You agree that any legal action or proceeding between you and Bitcoin Foundation related to these Terms, shall be brought exclusively in a federal or state court of competent jurisdiction sitting in Washington, DC. You agree to submit to the personal jurisdiction of the courts located within Washington, DC for the purpose of litigating all such claims or disputes.
+
+#####   *Binding Arbitration*
+
+Any controversy or claim arising out of or relating to these Terms shall be settled by binding arbitration in accordance with the commercial arbitration rules of the American Arbitration Association. Any such controversy or claim shall be arbitrated on an individual basis, and shall not be consolidated in any arbitration with any claim or controversy of any other party. The arbitration shall be conducted in Washington, DC, and judgment on the arbitration award may be entered into any court having jurisdiction thereof. Either you or Bitcoin Foundation may seek any interim or preliminary relief from a court of competent jurisdiction in Washington, DC necessary to protect the rights or property of you or Bitcoin Foundation pending the completion of arbitration.
+
+##### *Equitable Relief*
+
+You acknowledge that the rights and obligations under these Terms are of a unique and irreplaceable nature, the loss of which shall cause irreparable harm and which cannot be replaced by monetary damages alone. Accordingly, Bitcoin Foundation shall be entitled to injunctive or other equitable relief (without the obligations of posting any bond or surety or proof of damages) in the event of any breach or any anticipated breach. Furthermore, you hereby irrevocably waive all rights to seek injunctive or other equitable relief, or to enjoin or restrain the operation of the Website, exploitation of any advertising or other materials issued in connection therewith, or exploitation of the Website, or any content or other material used or displayed through the Website, and agree to limit your claims to claims for monetary damages.
+
+##### *Indemnification*
+
+You agree to defend, indemnify and hold harmless Bitcoin Foundation, its subsidiaries, affiliates, independent contractors, service providers and consultants, and their respective directors, employees and agents, from and against any claims, damages, costs, liabilities and expenses (including, but not limited to, reasonable attorneys’ fees) arising out of or related to: (a) your use of the Website; (b) any user content or submission you post, store or otherwise transmit on or through the Website; (c) your violation of these Terms and/or any other Bitcoin Foundation terms, policies, guidelines, or agreements; (d) your violation of any other person's rights; or (e) your conduct in connection with the Website.
+
+##### *Digital Millennium Copyright Act (“DMCA”)*
+
+Our policy is to respond to notices of alleged infringement that comply with the DMCA. Copyright infringing materials found within the Website can be identified and removed via Bitcoin Foundation's DMCA compliance process, and you agree to comply with such process in the event you are involved in any claim of copyright infringement to which the DMCA may be applicable.
+
+#####  *Disclaimer of Warranties, Limitation of Damages and Release and Indemnity*
+
+You agree that the provisions of this section will survive any termination of the Website, or your use of the Website.
+
+THE WEBSITE AND ALL RELATED SERVICES, ARE PROVIDED BY BITCOIN FOUNDATION ON AN "AS IS" BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES OF TITLE, NONINFRINGEMENT, OR IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. BITCOIN FOUNDATION DOES NOT WARRANT THAT ANY INFORMATION IS COMPLETE OR ACCURATE, THAT THE WEBSITE WILL BE UNINTERRUPTED OR ERROR FREE, OR THAT ANY INFORMATION IS FREE OF VIRUSES ROGUE OR MALICIOUS PROGRAMMING.
+
+UNDER NO CIRCUMSTANCES, INCLUDING NEGLIGENCE, SHALL BITCOIN FOUNDATION BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE OR CONSEQUENTIAL DAMAGES THAT MAY RESULT FROM THE USE OR INABILITY TO USE THE WEBSITE OR ANY OTHER HYPER-LINKED WEBSITE, INCLUDING WITHOUT LIMITATION USE OF OR RELIANCE ON INFORMATION AVAILABLE ON THE WEBSITE IN THE CONTENT, INTERRUPTIONS, ERRORS, DEFECTS, MISTAKES, OMISSIONS, DELETIONS OF FILES, DELAYS IN OPERATION OR TRANSMISSION, NONDELIVERY OF INFORMATION, DISCLOSURE OF COMMUNICATIONS, OR ANY OTHER FAILURE OF PERFORMANCE.
+
+IN NO EVENT SHALL THE AGGREGATE LIABILITY OF BITCOIN FOUNDATION, WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE, WHETHER ACTIVE, PASSIVE OR IMPUTED), PRODUCT LIABILITY, STRICT LIABILITY OR OTHER THEORY, ARISING OUT OF OR RELATING TO THE USE OF OR INABILITY TO USE THE WEBSITE EXCEED ANY COMPENSATION YOU PAY, IF ANY, TO BITCOIN FOUNDATION FOR ACCESS TO OR USE OF THE WEBSITE.
+
+YOU HEREBY RELEASE AND WAIVE ANY AND ALL CLAIMS LIABILITY AGAINST BITCOIN FOUNDATION ARISING FROM OR IN CONNECTION WITH YOUR USE OF THE WEBSITE. YOU ALSO AGREE TO DEFEND, INDEMNIFY AND HOLD HARMLESS, BITCOIN FOUNDATION, FROM AND AGAINST, ANY AND ALL CLAIMS OR LIABILITY, INCLUDING COSTS AND ATTORNEYS FEES, ARISING FROM OR IN CONNECTION WITH YOUR USE OF THE WEBSITE, OR FAILURE TO ABIDE BY APPLICABLE LAW.
+
+##  **Miscellaneous**
+
+##### *Force Majeure*
+
+Bitcoin Foundation shall not be liable for any delay or failure to perform resulting from causes outside its reasonable control, including without limitation acts of God, war, terrorism, riots, embargoes, acts of civil or military authorities, fire, floods, accidents, network infrastructure failures, strikes, or shortages of transportation facilities, fuel, energy, labor or materials.
+
+#####   *Severability*
+
+In the event any provision of these Terms are declared to be void or unenforceable in whole or part, the other provisions of these Terms and the remainder of the affected provisions shall continue to be valid; provided, however, that a court having jurisdiction may revise such provision to the extent necessary to make such provision valid and enforceable consistent with the intention of the parties.
+
+##### *Waiver and Conflict*
+
+The failure of Bitcoin Foundation to exercise or enforce any right or provision in these Terms shall not operate as a waiver. As it relates to the Website, if there is ever a conflict between these Terms and any other terms or policies these Terms will control.
+
+##### *Questions*
+
+If you have any questions about these Terms and how they relate to the Website please email us at **[E-MAIL]** with the subject line “Terms Question”.
