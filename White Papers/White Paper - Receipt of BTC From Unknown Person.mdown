@@ -18,7 +18,7 @@ John Doe (“JD”) wakes up one morning and finds that 500 bitcoins were sent t
 
 **II. Questions to be Addressed**
 
-A.	Is there any clear legal precedent implicated by these facts?
+A.	Is there any clear legal precedent implicated by these facts?<br>
 B.	If no, then what are the rights and duties of both UP and JD? 
 
 **III. Brief Answer**
