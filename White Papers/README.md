@@ -6,7 +6,7 @@ These are legal white papers submitted to The Bitcoin Foundation, Inc. (http://b
 
 To be included here these white papers must be submitted for distribution under the MIT License.
 
-##Modifications to the White Papers submitted to The Bitcoin Foundation, Inc.
+##Modifications to White Papers submitted to The Bitcoin Foundation, Inc.
 
 If you would like to see a modification, correction, addition or change made to any white paper stored here please submit a pull request to this repo. 
 
